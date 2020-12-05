@@ -1,0 +1,42 @@
+{
+  "config": {
+    "editor": {
+      "modes": [
+        {
+          "key": "js",
+          "value": "javascript"
+        },
+        {
+          "key": "j",
+          "value": "java"
+        },
+        {
+          "key": "p",
+          "value": "python"
+        },
+        {
+          "key": "x",
+          "value": "xml"
+        },
+        {
+          "key": "r",
+          "value": "ruby"
+        },
+        {
+          "key": "jso",
+          "value": "json"
+        }
+      ],
+      "themes": [
+        {
+          "key": "gh",
+          "value": "github"
+        },
+        {
+          "key": "mon",
+          "value": "monokai"
+        }
+      ]
+    }
+  }
+}
